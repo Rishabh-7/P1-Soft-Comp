@@ -1,6 +1,6 @@
 ### 1. Clone the repository:
 
-    git clone https://github.com/sibtc/simple-django-login.git
+    git clone https://github.com/Rishabh-7/P1-Soft-Comp.git
 
 ### 2. Run migrations:
 
