@@ -1,0 +1,35 @@
+body
+{
+  margin: 0;
+}
+img
+{
+  display: inline-block;
+  width: 100px;
+}
+h1
+{
+  margin: 0;
+  width: 200px;
+}
+.top-container
+{
+  display: inline-block;
+  padding:90px;
+  background-color: #E4F9F5;
+  height: 100px;
+/*  border: solid 10px;*/
+  border-radius: 30px;
+}
+.middle-container
+{
+  background-color: #66BFBF;
+  height: 200px;
+  width: 200px;
+}
+.bottom-container
+{
+  background-color: #861328;
+  height: 200px;
+  width: 200px;
+}
