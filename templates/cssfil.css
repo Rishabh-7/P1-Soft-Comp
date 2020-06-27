@@ -16,6 +16,15 @@ h1
   margin: 0;
   width: 200px;
 }
+.text-container
+{
+  display: grid;
+  background-color: #E4D4F4;
+  font-family: 'Calibri';
+  color: #861328;
+  margin: 0;
+  padding: 0;
+}
 .top-container
 {
   display: inline-block;
