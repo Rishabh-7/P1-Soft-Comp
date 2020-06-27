@@ -1,6 +1,10 @@
 body
 {
   margin: 0;
+  background-color:#000000;
+  font-family: 'Comic Sans MS';
+  font-size: 15px;
+  color: #FFFFFF;
 }
 img
 {
@@ -18,7 +22,6 @@ h1
   padding:90px;
   background-color: #E4F9F5;
   height: 100px;
-/*  border: solid 10px;*/
   border-radius: 30px;
 }
 .middle-container
